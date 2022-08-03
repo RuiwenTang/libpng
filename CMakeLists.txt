@@ -11,7 +11,7 @@
 # and license in png.h
 
 project ( libpng C )
-cmake_minimum_required ( VERSION 2.8 )
+cmake_minimum_required ( VERSION 3.10 )
 include ( cmake/dist.cmake )
 
 set ( PNGLIB_MAJOR 1 )
